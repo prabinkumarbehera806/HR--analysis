@@ -53,7 +53,7 @@ The report has three pages. Each page focuses on one area.
 
 ### Page 1 — Workforce Structure
 
-![Workforce Structure Dashboard](assets/screenshots/1.jpg)
+![Workforce Structure Dashboard](Screenshots/1.jpg)
 
 **What I found:**
 
@@ -67,7 +67,7 @@ Europe has 36 employees but they only work in 4 roles — Sales, Sales Manager, 
 
 ### Page 2 — Salary Distribution
 
-![Salary Distribution Dashboard](assets/screenshots/2.jpg)
+![Salary Distribution Dashboard](Screenshots/2.jpg)
 
 **What I found:**
 
@@ -81,7 +81,7 @@ South San Francisco is the biggest office with 45 employees, but their average s
 
 ### Page 3 — Career Mobility and Tenure
 
-![Career Mobility Dashboard](assets/screenshots/3.jpg)
+![Career Mobility Dashboard](Screenshots/3.jpg)
 
 **What I found:**
 
